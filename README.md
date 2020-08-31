@@ -11,5 +11,4 @@ This scrips not work on Bash Terminal
 
 This use Jest.js for calculation 
 
-Althrow .\calculate.js в той же директории пишет Error: Cannot find module /way...
 
